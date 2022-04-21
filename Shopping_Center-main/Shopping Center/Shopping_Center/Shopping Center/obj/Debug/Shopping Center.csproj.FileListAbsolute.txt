@@ -1,7 +1,0 @@
-C:\Users\ELgohary\source\repos\Shopping Center\bin\Shopping Center.dll.config
-C:\Users\ELgohary\source\repos\Shopping Center\bin\Shopping Center.dll
-C:\Users\ELgohary\source\repos\Shopping Center\bin\Shopping Center.pdb
-C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.csproj.AssemblyReference.cache
-C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
-C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.dll
-C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.pdb
